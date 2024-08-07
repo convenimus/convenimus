@@ -1,7 +1,7 @@
 ### Hallo 👋
 
-- 🤖 Getting started with Laravel
+- 🤖 Currently creating a web app
 - 📍 München, Germany
-- 🏫 Aktuell in der 11. Klasse
+- 🏫 Aktuell in der 12. Klasse
 - 📫 github@convenimus.de
 
